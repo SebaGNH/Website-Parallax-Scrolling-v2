@@ -2,7 +2,7 @@
 
 ## En proceso
 
-
+[Link para ver online](https://sebagnh.github.io/Website-Parallax-Scrolling-v2/ "Click para ver online")
 
 
 <!-- 
