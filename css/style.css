@@ -92,6 +92,7 @@ section h2 {
   white-space: nowrap;
   font-size: 7.5vw;
   z-index: 5;
+  right: 250px;
 }
 section a {
   background-color: #fff;
@@ -101,7 +102,7 @@ section a {
   border-radius: 40px;
   font-size: 1.5em;
   display: inline-block;
-  z-index: 9;
+  z-index: 7;
   transform: translateY(100px);
   cursor: pointer;
 }
