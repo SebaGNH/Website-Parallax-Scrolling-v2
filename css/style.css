@@ -3,6 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  scroll-behavior: smooth;
 }
 
 body {
@@ -70,7 +71,7 @@ section::before {
   bottom: 0;
   width: 100%;
   height: 100%;
-  background-image: linear-gradient(to top, #1c0522 15%, transparent 50%);
+  background-image: linear-gradient(to top, #1c0522 15%, transparent 40%);
   z-index: 9;
 }
 section img {
@@ -99,8 +100,9 @@ section a {
   border-radius: 40px;
   font-size: 1.5em;
   display: inline-block;
-  z-index: 7;
+  z-index: 9;
   transform: translateY(100px);
+  cursor: pointer;
 }
 section .mountains_front {
   z-index: 8;
