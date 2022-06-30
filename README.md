@@ -5,6 +5,8 @@
 [Link para ver online](https://sebagnh.github.io/Website-Parallax-Scrolling-v2/ "Click para ver online")
 
 
+![Muestra](./img/muestra.gif "Muestra")
+
 <!-- 
 Link de la imágen
 
